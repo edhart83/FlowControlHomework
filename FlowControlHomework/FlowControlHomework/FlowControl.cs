@@ -302,7 +302,7 @@ namespace FlowControlHomework
                 if (i == 15) Assert.IsTrue(true);
             }
 
-            max = 0;
+            max = 17;
             // Almost the same as above but you need to do something special to get to 16.
             // Some restrictions:
             // Dont change anything in the block, only the for statement.
